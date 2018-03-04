@@ -2,6 +2,7 @@
 title: Programa de la materia
 layout: pages
 permalink: programa.html
+categorie: navegacion
 ---
 
 ### Clase 1
