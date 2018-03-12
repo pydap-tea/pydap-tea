@@ -16,7 +16,7 @@
         <ul class="navegacion">
           {% for pagina in site.pages %}
             {% if pagina.layout == 'pages' %}
-              <li><a href="{{ pagina.url }}">{{ pagina.title }}</a></li>
+              <li><a href="{{ pagina.link }}">{{ pagina.title }}</a></li>
           <!-- <li><a href="comisiones">Comisiones actuales</a></li> -->
             {% endif %}
           {% endfor %}
