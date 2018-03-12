@@ -3,7 +3,7 @@ title: Programa de la materia
 layout: pages
 permalink: programa.html
 categorie: navegacion
-link: pydap-tea/programa.html
+link: programa.html
 ---
 
 ### Clase 1
