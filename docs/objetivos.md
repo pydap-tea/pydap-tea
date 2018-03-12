@@ -3,6 +3,7 @@ title: Objetivos
 layout: pages
 permalink: objetivos.html
 categorie: navegacion
+link: pydap-tea/programa.html
 ---
 Sitio web de la materia **Programación y diseño de aplicaciones periodísticas** de [TEA](http://www.teaydeportea.edu.ar/) - periodismo por periodistas.
 
